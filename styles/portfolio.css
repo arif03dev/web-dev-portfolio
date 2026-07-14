@@ -156,3 +156,13 @@ justify-content: space-around;
     margin-right: 10px;
 }
 
+/* resume styles */
+.resume-title{
+    text-align: center;
+    margin-top: 130px;
+}
+
+.resume-container{
+    display: flex;
+    gap: 25px;
+}
